@@ -39,7 +39,7 @@ This doesn't contain a demo but can be found on the web as this adress listed [h
 - Has a  NavBar **(nss)**
 ## Screenshots
 
-Here, I will attach about 7 screenshots - basically giving you the whole website without
+Here, I will attach about 8 screenshots - basically giving you the whole website without
 need to view, but it is okay. 
 
 ![Xiotim :: Home](Screenshots/Home.JPG)
@@ -49,6 +49,7 @@ need to view, but it is okay.
 ![Xiotim :: Team](Screenshots/Team.JPG)
 ![Xiotim :: Blog](Screenshots/Blog.JPG)
 ![Xiotim :: Contacts](Screenshots/Contact.JPG)
+![Xiotim :: Footer](Screenshots/Footer.JPG)
 
 All Done in HTML, CSS and under 50 lines of JavaScript.
 
